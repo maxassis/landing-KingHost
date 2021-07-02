@@ -11,7 +11,7 @@
   justify-content: $justify;
 }
 
-/*@mixin style-btn($height, $bg, $colorText) {
+@mixin style-btn($height, $bg, $colorText) {
   display: inline-block;
   height: $height;
   background-color: $bg;
@@ -26,4 +26,4 @@
     background-color: $colorText;
     color: $bg;
   }
-} */
+}
