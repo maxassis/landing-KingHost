@@ -256,4 +256,76 @@ header nav ul li a span {
     left: -9px;
   }
 }
+
+.s-resources {
+  padding-top: 14.9rem;
+  padding-bottom: 9.9rem;
+}
+
+.s-resources .top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 5.3rem;
+}
+
+.s-resources .top h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 3.2rem;
+  line-height: 130%;
+  color: #453f51;
+  max-width: 50.2rem;
+}
+
+.s-resources .top p {
+  color: #5e5570;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+.s-resources .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.s-resources .content ul {
+  width: 100%;
+  max-width: 90.4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
 /*# sourceMappingURL=main.css.map */

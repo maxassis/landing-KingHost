@@ -87,3 +87,34 @@
     }
   }
 }
+
+.s-resources {
+  padding-top: 14.9rem;
+  padding-bottom: 9.9rem;
+  .top {
+    @include flex(row, center, space-between);
+    margin-bottom: 5.3rem;
+    h2 {
+      font-family: "PT Sans", sans-serif;
+      font-weight: bold;
+      font-size: 3.2rem;
+      line-height: 130%;
+      color: $gray-01;
+      max-width: 50.2rem;
+    }
+    p {
+      color: $gray-02;
+      font-size: 1.6rem;
+      font-weight: 500;
+      line-height: 150%;
+    }
+  }
+  .content {
+    @include flex(row, flex-start, space-between);
+    ul {
+      width: 100%;
+      max-width: 90.4rem;
+      @include flex(row, flex-start, space-between);
+    }
+  }
+}
