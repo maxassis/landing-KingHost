@@ -13,7 +13,7 @@ Landing Page da empresa King Host, feita apenas com html e css
 
 ## Deploy
 
-[](https://max-kinghost.netlify.app)
+[https://max-kinghost.netlify.app](https://max-kinghost.netlify.app)
 
 
 
